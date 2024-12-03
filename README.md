@@ -1,8 +1,8 @@
 # POS-system
 
--POS system 
+POS system 
 
--Modules:
+Modules:
 
 -Secure Login and Logout
 
